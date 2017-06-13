@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1497375180 source:c:\users\jerem_000\documents\new cpu\codeblocks projects\novotest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"statemachine.h"
+
+1497371195 c:\users\jerem_000\documents\new cpu\codeblocks projects\novotest\statemachine.h
+
+1497374864 source:c:\users\jerem_000\documents\new cpu\codeblocks projects\novotest\statemachine.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"statemachine.h"
+
